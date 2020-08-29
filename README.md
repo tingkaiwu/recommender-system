@@ -33,10 +33,15 @@ mvn install
 4. Start your Tomcat
 5. http://localhost:8080/jupiter/
 
-## High Level Overview
+
+
 <p>
-  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png">
+  <img width="500" align='right' src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png?raw=true">
 </p>
+
+## High Level Overview
+
+Built a geo & photo based social media site by React, Golang and token-based server-side user authentication (JWT)
 
 ## Program Flow
 <p>
@@ -62,7 +67,7 @@ mvn install
 </p>
 -->
 
-## API Endpoint
+## API Endpoint (Servlet)
 - /jupiter
 
 - /jupiter/search
