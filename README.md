@@ -31,6 +31,16 @@ mvn install
 4. Start your Tomcat
 5. http://localhost:8080/jupiter/
 
+## Skills
+
+- Java
+- JavaScript
+- Java Servlet
+- HTML
+- CSS
+- AWS RDS
+- AWS EC2
+
 <p>
   <img width="500" align='right' src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png?raw=true">
 </p>
