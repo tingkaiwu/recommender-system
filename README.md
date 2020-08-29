@@ -33,18 +33,17 @@ mvn install
 4. Start your Tomcat
 5. http://localhost:8080/jupiter/
 
-## Structure
-### High Level Overview
+## High Level Overview
 <p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png">
 </p>
 
-### Program Flow
+## Program Flow
 <p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
 </p>
 
-### Database Structure
+## Database Structure
 <p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
 </p>
