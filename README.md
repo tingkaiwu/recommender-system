@@ -28,13 +28,12 @@ git clone git@github.com:tingkaiwu/recommender-system.git
 cd recommender-system
 mvn install
 ```
+4. Start your Tomcat
+5. http://localhost:8080/jupiter/
 
 <p>
   <img width="500" align='right' src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png?raw=true">
 </p>
-
-4. Start your Tomcat
-5. http://localhost:8080/jupiter/
 
 ## High Level Overview
 
