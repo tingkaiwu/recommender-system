@@ -66,7 +66,7 @@ In addition, I built two clients to operate GitHub API & Monkey Learn API, and a
 </p>
 -->
 
-## API Endpoint (Servlet)
+## API Endpoint
 - /jupiter
 
 - /jupiter/search
