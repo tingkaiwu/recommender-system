@@ -43,6 +43,8 @@ I used Tomcat as HTTP Server in this project, and used Java Servlet to build six
 
 In addition, I built two clients to operate GitHub API & Monkey Learn API, and access MySQL database deployed on AWS.
 
+<br/>
+
 ## Program Flow
 <p>
   <img width="1000" src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
