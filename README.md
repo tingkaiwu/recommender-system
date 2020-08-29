@@ -44,15 +44,15 @@ mvn install
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
 </p>
 
-
-<p align=center>
-  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_auth.png">
-</p>
-
+### Database Structure
 <p align=center>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
 </p>
 
+<!--
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_auth.png">
+</p>
 
 <p align=center>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_method.png">
@@ -61,6 +61,7 @@ mvn install
 <p align=center>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_recommend_structure.png">
 </p>
+-->
 
 ## APIs
 /jupiter
