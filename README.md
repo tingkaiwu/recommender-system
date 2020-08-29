@@ -16,6 +16,8 @@ and I use the MonkeyLearn API to extract the keywords of the job description. in
 - Java 8 or higher
 - Eclipse for Enterprise Java Developers
 - Apache Tomcat
+- Register Monkey Learn API
+- AWS Account
 
 ## Installation
 1. Set Tomcat to Eclipse
@@ -33,8 +35,44 @@ mvn install
 
 ## Structure
 
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png"><img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
+</p>
+
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_auth.png">
+</p>
+
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
+</p>
+
+<p align=center>
+  
+</p>
+
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_method.png">
+</p>
+
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_recommend_structure.png">
+</p>
 
 ## APIs
+/jupiter
+
+/jupiter/search
+
+/jupiter/recommendation
+
+/jupiter/history
+
+/jupiter/login
+
+/jupiter/logout
+
+/jupiter/register
 
 <!--
 名字
