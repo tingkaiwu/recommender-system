@@ -35,6 +35,8 @@ mvn install
   <img width="500" align='right' src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png?raw=true">
 </p>
 
+<br/>
+
 ## High Level Overview
 
 I used Tomcat as HTTP Server in this project, and used Java Servlet to build six API endpoints to handle HTTP request and response, including search, recommendation, history, login, logout and register. 
@@ -43,12 +45,12 @@ In addition, I built two clients to operate GitHub API & Monkey Learn API, and a
 
 ## Program Flow
 <p>
-  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
+  <img width="1000" src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
 </p>
 
 ## Database Structure
 <p>
-  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
+  <img width="1000" src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
 </p>
 
 <!--
