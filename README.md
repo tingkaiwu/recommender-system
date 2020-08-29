@@ -23,17 +23,13 @@ and I use the MonkeyLearn API to extract the keywords of the job description. in
 1. Set Tomcat to Eclipse
 2. Clone Recommender System from GitHub
 3. Use Maven install the dependences
-
 ```
 git clone git@github.com:tingkaiwu/recommender-system.git
 cd recommender-system
 mvn install
 ```
-
 4. Start your Tomcat
 5. http://localhost:8080/jupiter/
-
-
 
 <p>
   <img width="500" align='right' src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png?raw=true">
@@ -41,7 +37,7 @@ mvn install
 
 ## High Level Overview
 
-Built a geo & photo based social media site by React, Golang and token-based server-side user authentication (JWT)
+I used Tomcat as HTTP Server in this project, and used Java Servlet to build six API endpoints to handle HTTP request and response, including search, recommendation, history, login, logout and register. In addition, I built two clients to operate GitHub API & Monkey Learn API, and access MySQL database deployed on AWS.
 
 ## Program Flow
 <p>
