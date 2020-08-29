@@ -37,7 +37,9 @@ mvn install
 
 ## High Level Overview
 
-I used Tomcat as HTTP Server in this project, and used Java Servlet to build six API endpoints to handle HTTP request and response, including search, recommendation, history, login, logout and register. In addition, I built two clients to operate GitHub API & Monkey Learn API, and access MySQL database deployed on AWS.
+I used Tomcat as HTTP Server in this project, and used Java Servlet to build six API endpoints to handle HTTP request and response, including search, recommendation, history, login, logout and register. 
+
+In addition, I built two clients to operate GitHub API & Monkey Learn API, and access MySQL database deployed on AWS.
 
 ## Program Flow
 <p>
