@@ -13,10 +13,23 @@ I built RESTful APIs using Java Servlets to retrieve job description using GitHu
 and I use the MonkeyLearn API to extract the keywords of the job description. in order to build the Content-based algorithm.
 
 ## Requirement
-
+- Java 8 or higher
+- Eclipse for Enterprise Java Developers
+- Apache Tomcat
 
 ## Installation
+1. Set Tomcat to Eclipse
+2. Clone Recommender System from GitHub
+3. Use Maven install the dependences
 
+```
+git clone git@github.com:tingkaiwu/recommender-system.git
+cd recommender-system
+mvn install
+```
+
+4. Start your Tomcat
+5. http://localhost:8080/jupiter/
 
 ## Structure
 
