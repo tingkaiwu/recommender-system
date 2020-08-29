@@ -34,10 +34,16 @@ mvn install
 5. http://localhost:8080/jupiter/
 
 ## Structure
-
+### High Level Overview
 <p align=center>
-  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png"><img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png">
 </p>
+
+### Program Flow
+<p align=center>
+  <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
+</p>
+
 
 <p align=center>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_auth.png">
@@ -47,9 +53,6 @@ mvn install
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
 </p>
 
-<p align=center>
-  
-</p>
 
 <p align=center>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_method.png">
