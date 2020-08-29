@@ -35,17 +35,17 @@ mvn install
 
 ## Structure
 ### High Level Overview
-<p align=center>
+<p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender.png">
 </p>
 
 ### Program Flow
-<p align=center>
+<p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_functions.png">
 </p>
 
 ### Database Structure
-<p align=center>
+<p>
   <img src="https://github.com/tingkaiwu/recommender-system/blob/master/readme.image/recommender_database.png">
 </p>
 
@@ -63,20 +63,20 @@ mvn install
 </p>
 -->
 
-## APIs
-/jupiter
+## API Endpoint
+- /jupiter
 
-/jupiter/search
+- /jupiter/search
 
-/jupiter/recommendation
+- /jupiter/recommendation
 
-/jupiter/history
+- /jupiter/history
 
-/jupiter/login
+- /jupiter/login
 
-/jupiter/logout
+- /jupiter/logout
 
-/jupiter/register
+- /jupiter/register
 
 <!--
 名字
