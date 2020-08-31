@@ -47,7 +47,7 @@ mvn install
 
 <br/>
 
-## High Level Overview
+## Structure
 
 I used Tomcat as HTTP Server in this project, and used Java Servlet to build six API endpoints to handle HTTP request and response, including search, recommendation, history, login, logout and register. 
 
