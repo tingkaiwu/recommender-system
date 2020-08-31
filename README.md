@@ -4,7 +4,7 @@
   <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/recommender.gif">
 </p>
 
-## Introduction
+## Overview
 
 Recommender System is an interactive web application for job seekers to search and apply openings. 
 The purpose of this project was to learn how to use J2EE to develop RESTful API. 
